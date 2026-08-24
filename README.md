@@ -44,11 +44,3 @@ Pieza terminada correspondiente a un diseño con relieve (emblema/zorro sobre ba
 
 ---
 
-## 📂 Estructura del Repositorio
-
-```text
-.
-├── README.md
-└── imagenes/
-    ├── proceso_impresion.jpg
-    └── pieza_final.jpg
